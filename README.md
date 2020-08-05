@@ -16,7 +16,7 @@
 
 ## 预览
 
-![qr-of-examples](./docs/images/qr-of-examples.png)
+![qr-of-examples](_docs/images/qr-of-examples.png)
 
 扫描二维码在手机查看
 
@@ -93,7 +93,7 @@ new Vue({
 
 ### 组件列表和使用说明
 
-[点击查看组件列表](./docs/components.md)
+[点击查看组件列表](_docs/components.md)
 
 ## 查看示例
 
@@ -107,7 +107,7 @@ open http://localhost:8080 in browser
 
 ## 变更日志
 
-[点击查看变更日志](./docs/CHANGELOG.md)
+[点击查看变更日志](_docs/CHANGELOG.md)
 
 ## 反馈
 
